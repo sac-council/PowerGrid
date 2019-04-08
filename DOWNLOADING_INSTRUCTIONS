@@ -1,0 +1,19 @@
+# Download Instructions
+
+FOR WINDOWS
+
+1. Download the PowerGrid repository as a ZIP file from GitHub.
+2. Open the file titled "powergrid.exe". Make sure that you do not click "powergrid.swf", as this is the FLASH file and not PowerGrid's executable itself.
+3. You have opened PowerGrid on your Windows computer
+
+MACBOOKS
+
+1. Download the PowerGrid repository as a ZIP file from GitHub.
+2. Place "powergrid.exe" in your GUI - not to be confused with "powergrid.swf", the FLASH file.
+3. Download WineBottler 2.0 from winebottler.kronenberg.org.
+4. Use WineBottler to open "powergrid.exe".
+5. Success! You have opened PowerGrid on your Mac computer!
+
+CHROMEBOOKS
+
+PowerGrid does not currently support Chromebooks.
